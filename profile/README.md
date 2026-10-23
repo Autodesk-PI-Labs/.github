@@ -1,6 +1,6 @@
 # π-Labs: Physics Informed AI
 
-Welcome to **π-Labs**, the **Physics Informed AI** research group within **Autodesk Research**. We build AI methods that respect the physics of the systems Autodesk customers design and make, from flow, acoustics and thermal effects to structures and urban environments. The plural is deliberate: the group is spread across multiple locations.
+Welcome to **π-Labs**, the **Physics Informed AI** research group within **Autodesk Research**! We build AI methods that respect the physics of the systems Autodesk customers design and make, from flow, acoustics and thermal effects to structures and urban environments. The plural is deliberate: the group is spread across multiple locations.
 
 <p align="center">
     <img alt="π-Labs" src="../pi_labs_scheme.svg" width="1000" />
